@@ -5,7 +5,7 @@ The purpose of this analysis is to determine if the client should open a bike sh
 
 ## Results
 
-[Link to Tableau Story](https://public.tableau.com/app/profile/vanessa.neang6287/viz/ChallengeProject_16700985738970/CitiBikeStory)
+[Link to Tableau Story](https://public.tableau.com/app/profile/vanessa.neang6287/viz/ChallengeProject_16700985738970/CitiBikeStory?publish=yes)
 
 Analysis (24 points)
 The written analysis has the following:
