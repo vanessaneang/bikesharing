@@ -27,6 +27,6 @@ This link above will show the data in a compiled data telling storyboard via Tab
 
 ## Summary
 
-Overall
+Overall the need for the bike city app appears to be fairly successful in NYC among male users during the weekdays. This implies that in order to start this type of service in Des Moines, the client should place stations near big company offices and areas that these workers reside in. By doing so it would be highly effective for workers to commute to their workplace via bikes. The initial hour should be a set rate since a majority of riders utilize bikes for less than 1 hr, so a set rate to rent the bike for the first hour will allow the business to get enough revenue from all users that are both subscribers and first-time customers. Possibly, increasing the fee during the rush hours on the weekdays could allow for more revenue since a majority of riders use these bikes to commute to from work. Then decreasing the fee durngin the slower hours and day could peak more interest form consumers to utilize the bikes to get aroung the city of Des Moines. 
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
